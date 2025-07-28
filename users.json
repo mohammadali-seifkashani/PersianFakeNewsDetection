@@ -3,8 +3,11 @@
     "myid": 1000000,
     "name": "علی اکبر رائفی پور",
     "job": ["سخنران"],
-    "twitter": ["mahdiyar_313"],
-    "instagram": ["raefipur.ir", "masaf"],
+    "accounts": [
+      {"platform": "twitter", "username": "mahdiyar_313", "followers": 140600},
+      {"platform": "instagram", "username": "raefipur.ir"},
+      {"platform": "instagram", "username": "masaf"}
+    ],
     "description": "اصولگرا-مسئول موسسه مصاف",
     "media_about": [
       {
@@ -18,8 +21,9 @@
     "myid": 1000001,
     "name": "آیت الله سید علی خامنه ای",
     "job": ["سیاستمدار", "رهبری"],
-    "twitter": [
-      {"username": "khamenei_fa", "followers": 2100000}
+    "accounts": [
+      {"platform": "twitter", "username": "khamenei_fa", "followers": 2100000},
+      {"platform": "twitter", "username": "khamenei_ir", "followers": 2000000}
     ],
     "website": ["khamenei.ir"],
     "eitaa": ["khamenei_ir"],
@@ -30,8 +34,9 @@
     "myid": 1000002,
     "name": "خبرگزاری فارس",
     "job": ["خبرگزاری"],
-    "twitter": [
-      {"username": "FarsNews_Agency", "followers": 272400}
+    "accounts": [
+      {"platform": "twitter", "username": "FarsNews_Agency", "followers": 272400},
+      {"platform": "telegram", "username": "farsna", "followers": 1810000}
     ],
     "description": "اصولگرا",
     "my_given_reliability": 85,
@@ -46,12 +51,74 @@
     "myid": 1000003,
     "name": "وحید آنلاین",
     "job": ["شهروند خبرنگار", "فعّال اینترنتی"],
-    "telegram": [
-      {"username": "VahidOnline", "followers": 681600}
+    "accounts": [
+      {"platform": "telegram", "username": "VahidOnline", "followers": 681600},
+      {"platform": "twitter", "username": "Vahid", "followers": 568700}
     ],
-    "twitter": [
-      {"username": "Vahid", "followers": 568700}
+    "description": "برانداز-پناهنده آمریکا",
+    "media_about": [
+      {
+        "text": "سیستم جمع آوری گستردهٔ اطلاعاتِ آنلاین نظامی ایران برای دشمنان است.",
+        "link": "https://x.com/M_H_Karimipour/status/1939305875186823363"
+      },
+      {
+        "text": "کانال عملیات روانی دشمن",
+        "link": "https://t.me/BisimchiMedia/146009"
+      },
+      {
+        "text": "او بارها اولین منتشرکننده ی اخبار بوده است.",
+        "link": "https://fa.wikipedia.org/wiki/%D9%88%D8%AD%DB%8C%D8%AF_%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86#:~:text=%D9%88%D8%AD%DB%8C%D8%AF%20%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86%20%D9%87%D9%85%DA%86%D9%86%DB%8C%D9%86%20%D9%85%D9%86%D8%A8%D8%B9%20%D8%A7%D9%88%D9%84%DB%8C%D9%86%20%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%20%D8%A8%D8%B1%D8%AE%DB%8C%20%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA%20%D9%85%D8%B1%D8%A8%D9%88%D8%B7%20%D8%A8%D9%87%20%D8%A7%DB%8C%D9%86%20%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C%20%D8%AE%D8%A8%D8%B1%DB%8C%20%D8%A8%D9%88%D8%AF%D9%87%20%D8%A7%D8%B3%D8%AA"
+      }
     ],
-    "description":
+    "my_given_reliability": 70
+  },
+  {
+    "myid": 1000004,
+    "name": "مملکته",
+    "job": ["خبرگزاری"],
+    "description": "سلطنت طلب-برانداز-ساکن ایران",
+    "accounts": [
+      {"platform": "twitter", "username": "mamlekate", "followers": 193300},
+      {"platform": "telegram", "username": "mamlekate", "followers": 483500}
+    ],
+    "media_about": [
+      {
+        "text": "کانال عملیات روانی دشمن",
+        "link": "https://t.me/BisimchiMedia/146009"
+      }
+    ],
+    "my_given_reliability": 40
+  },
+  {
+    "myid": 1000005,
+    "name": "ایران اینترنشنال",
+    "job": ["خبرگزاری"],
+    "description": "سلطنت طلب-برانداز",
+    "accounts": [
+      {"platform": "twitter", "username": "IranIntlbrk", "followers": 1700000},
+      {"platform": "twitter", "username": "IranIntl", "followers": 2100000},
+      {"platform": "twitter", "username": "iranintlsport", "followers": 304300},
+      {"platform": "telegram", "username": "IranintlTV", "followers": 759100},
+      {"platform": "telegram", "username": "Iranlnternational", "followers": 273400},
+      {"platform": "telegram", "username": "iran_intel_tv", "followers": 23500},
+      {"platform": "telegram", "username": "iranintltvsport", "followers": 36000}
+    ],
+    "media_about": [
+      {
+        "text": "«معاند» و ساختهٔ دست عربستان سعودی",
+        "link": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%B4%D9%86%D8%A7%D9%84#:~:text=%C2%AB%D9%85%D8%B9%D8%A7%D9%86%D8%AF%C2%BB%20%D9%88%20%D8%B3%D8%A7%D8%AE%D8%AA%D9%87%D9%94%20%D8%AF%D8%B3%D8%AA%20%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%20%D8%B3%D8%B9%D9%88%D8%AF%DB%8C"
+      }
+    ],
+    "my_given_reliability": 40
+  },
+  {
+    "myid": 1000006,
+    "name": "محمدحسین کریمی پور",
+    "job": ["کارشناس اقتصادی و اقتصاد صنعتی", "کارشناس محیط زیست", "فعال سیاسی"],
+    "description": "انقلابی",
+    "accounts": [
+      {"platform": "twitter", "username": "M_H_Karimipour", "followers": 86600}
+    ],
+    "my_given_reliability": 85
   }
 ]
